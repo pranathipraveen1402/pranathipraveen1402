@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### 🎓 3rd Year Student at PESU
+#### 🎓 4th Year Student at PESU
 #### 😺 Cat Lover: Proud parent of a purr-fect feline friend! 🐾
 #### 🚀 Passionate About Innovation: Turning ideas into reality one line of code at a time.
 #### 🔧 Problem Solver
